@@ -2,19 +2,15 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+There was a problem as always with server this is the third time I am submitting this project!!!
 ## Description
-TODO - How have you solved the problem?
+With my partner
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I intalled seaborn and some libraries due to this project.
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+You have to open jupyter notebook and run cells step by step. I put .txt file there are link to blogpost. 
 
 ### The Core Team
 
